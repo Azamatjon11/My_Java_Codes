@@ -25,6 +25,7 @@ public class MyCalculator {
                 break;
             case '/': answer = num1 / num2;
                 break;
+
         }
 
         System.out.println(num1+" "+operator+" "+num2+" = "+answer);
